@@ -1,6 +1,7 @@
 <h1>Hi, I'm Mozafar <br/>Programmer, Entry cybersecurity</h1>
 
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
+I do a 
 
 <h2> 📄 Certificatoins:</h2>
 
