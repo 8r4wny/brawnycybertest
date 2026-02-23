@@ -17,6 +17,11 @@
 A classification of devices connected to a home network displayed in an Excel sheet and documented with security context.  
 👉 [View Project](./assets-classification)
 
+*--------------------------------------------------------------------------------------------------------------------------* 
+
+#### 📌 Risk Scoring Analysis
+A structured risk assessment project where risks are evaluated and prioritized based on likelihood and severity.  
+👉 [View Project](./risk-scoring)
 ---
 
 <h2> 📄 Certificatoins:</h2>
